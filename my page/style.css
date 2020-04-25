@@ -1,0 +1,28 @@
+html, body{
+  color:#4a4a4a;
+}
+
+.fun{
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.gif{
+  width: 100%;
+  height: 100%;
+}
+
+.social a{
+  padding: 3rem;
+}
+
+footer{
+  background-color: #747474;
+  color: #EEEEEE;
+  padding-top: 2rem
+}
+
+.light{
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+}
